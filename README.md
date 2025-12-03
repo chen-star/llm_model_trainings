@@ -26,3 +26,6 @@ This repository contains a collection of Jupyter notebooks demonstrating various
 *   **[5_2_fine_tuning_freeze_weights.ipynb](5_2_fine_tuning_freeze_weights.ipynb)**: Demonstrates fine-tuning with frozen weights to reduce overfitting and computational cost, preserving low-level features while training higher-level ones.
 *   **[5_3_fine_tuning_bert_classfication.ipynb](5_3_fine_tuning_bert_classfication.ipynb)**: Fine-tunes a BERT model for text classification on the IMDB dataset, demonstrating Parameter-Efficient Fine-Tuning (PEFT) by freezing the base model and training only the classifier.
 *   **[5_4_fine_tuning_gradient_clipping_and_lr_scheduler.ipynb](5_4_fine_tuning_gradient_clipping_and_lr_scheduler.ipynb)**: Explores Gradient Clipping to prevent exploding gradients and Learning Rate Schedulers to dynamically adjust the learning rate during fine-tuning.
+
+### 6. Instruction Tuning
+*   **[6_1_instruction_tuning.ipynb](6_1_instruction_tuning.ipynb)**: Fine-tunes a GPT-2 model on the WebGLM-QA dataset to follow instructions and answer questions.

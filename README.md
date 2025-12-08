@@ -25,3 +25,5 @@ Here is the roadmap of our learning adventure:
 |                             | [**Grad Clipping & Schedulers**](5_4_fine_tuning_gradient_clipping_and_lr_scheduler.ipynb) | Master training stability with gradient clipping and dynamic learning rates.    |
 | **6. Instruction Tuning** 🛠️ | [**Instruction Tuning**](6_1_instruction_tuning.ipynb)                                     | Fine-tune GPT-2 to follow instructions using the WebGLM-QA dataset.             |
 | **7. Evaluation** 📊         | [**Perplexity**](7_1_evaluation_quantitative_perplexity.ipynb)                             | Evaluate model performance quantitatively using perplexity scores.              |
+|                             | [**HellaSwag**](7_2_evaluation_quantitative_HellaSwag.ipynb)                               | Benchmark commonsense reasoning using HellaSwag (Zephyr-7b-alpha vs GPT-2).     |
+|                             | [**KL Divergence**](7_3_evaluation_quantitative_KL_divergence.ipynb)                       | Measure distribution difference using KL Divergence.                            |
